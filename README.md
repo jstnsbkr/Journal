@@ -1,3 +1,5 @@
 # Journal
-# Journal
-# Journal
+
+A simple Java program for recording journal entries.
+
+-jstnsbkr
